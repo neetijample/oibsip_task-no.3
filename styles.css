@@ -11,10 +11,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color: #120d45;
-    background: linear-gradient(to right, #5936b4 20%, #d9d5f2 60%), url("bg.jpg");
-    background-position: center center;
-    background-size: cover;
-    background-repeat: no-repeat;
+    background: linear-gradient(to right, #5936b4 20%, #d9d5f2 60%);
     color: #222;
     font-size: 1rem;
 
